@@ -35,28 +35,13 @@ public class lmy1 {
 //		}
 		
 		
-		Rock r = 	new Rock();
+		
+		
+		
+		
 		
 		
 	}
 
 }
 
-class Rock{
-	Rock( int i ){
-		System.out.println("Rock.Rock(" + i + ")");
-		
-		
-	}
-
-	private void Rock() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public Rock() {
-		// TODO Auto-generated constructor stub
-	}
-	
-
-}

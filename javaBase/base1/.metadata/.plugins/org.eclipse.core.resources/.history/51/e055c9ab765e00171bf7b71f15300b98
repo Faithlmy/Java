@@ -36,7 +36,7 @@ public class lmy1 {
 		
 		
 		Rock r = 	new Rock();
-		
+		r.toString();
 		
 	}
 

@@ -35,7 +35,10 @@ public class lmy1 {
 //		}
 		
 		
-		Rock r = 	new Rock();
+		
+		
+		
+		
 		
 		
 	}
@@ -43,20 +46,7 @@ public class lmy1 {
 }
 
 class Rock{
-	Rock( int i ){
-		System.out.println("Rock.Rock(" + i + ")");
-		
-		
+	Rock(){
+		System.out.println("Rock.Rock()");
 	}
-
-	private void Rock() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public Rock() {
-		// TODO Auto-generated constructor stub
-	}
-	
-
 }

@@ -1,0 +1,11 @@
+package com.lmy1;
+
+import java.util.Date;
+
+public class lmy1 {
+	public static void main(String[] args) {
+		System.out.println(new Date());
+	}
+
+}
+

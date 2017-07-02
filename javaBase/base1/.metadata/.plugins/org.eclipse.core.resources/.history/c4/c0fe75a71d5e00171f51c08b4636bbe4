@@ -1,0 +1,16 @@
+package com.lmy1;
+
+import java.util.Date;
+import java.util.Properties;
+
+public class lmy1 {
+	public static void main(String[] args) {
+		System.out.println(new Date());
+		Properties p = new Properties();
+		p.list(System.out);
+		Runtime r = Runtime.getRuntime();
+		System.out.println(r.totalMemory() + r.freeMemory());
+	}
+
+}
+

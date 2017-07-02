@@ -1,0 +1,40 @@
+package com.lmy1;
+
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.Properties;
+
+public class lmy1 {
+	@SuppressWarnings("unused")
+	public static void main(String[] args) {
+//		System.out.println(new Date());
+//		Properties p = new Properties();
+//		p.list(System.out);
+//		Runtime r = Runtime.getRuntime();
+//		System.out.println(r.totalMemory() +"  " +  r.freeMemory());
+//		System.out.println(Math.min(8, 0));
+//		
+//		System.out.println("mm");
+//		GregorianCalendar d = new GregorianCalendar();
+//		System.out.println(d.getFirstDayOfWeek());
+//		System.out.println(d.getTimeInMillis());
+//		System.out.println(d.getWeekYear());
+		
+		
+//		int i = 8;
+//		System.out.println( i >>>=4 );
+		
+		for(int i = 1; i < 50; i++){
+			//if(i == 34) break;
+			//System.out.println(i);
+			if(i%9 == 0) 
+				
+			System.out.println("lmy1.main()");
+			System.out.println(i);
+			break;
+		}
+		
+	}
+
+}
+
